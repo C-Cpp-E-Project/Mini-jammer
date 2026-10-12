@@ -1,4 +1,4 @@
-## RF 2.4GHz Signal Jammer 📡
+## RF 2.4 GHz Signal Jammer 📡
 
 An experimental Wireless Security project built with Arduino Nano and NRF24L01 (PA/LNA). This system is designed for RF testing and signal disruption simulation within the 2.4 GHz spectrum by transmitting a constant carrier wave across channels 0 to 79.
 
@@ -13,7 +13,7 @@ To ensure safe and responsible usage, the source code for this project is **not 
 
 <br>
 
-## (เครื่องตัดสัญญาณวิทยุ 2.4GHz) 📡
+## เครื่องตัดสัญญาณวิทยุ 2.4 GHz 📡
 
 โปรเจกต์เชิงทดลองด้านความปลอดภัยไร้สายและการทดสอบคลื่นวิทยุ พัฒนาโดยใช้บอร์ด Arduino Nano ร่วมกับโมดูล NRF24L01 (PA/LNA) ระบบนี้ทำงานโดยการยิงคลื่นพาหะต่อเนื่อง (Constant Carrier) กวาดช่องสัญญาณตั้งแต่ช่อง 0 ถึง 79 เพื่อจำลองการบล็อกหรือรบกวนสัญญาณในย่านความถี่ 2.4 GHz
 
