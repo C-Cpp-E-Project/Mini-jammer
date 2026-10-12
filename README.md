@@ -46,5 +46,5 @@ To ensure safe and responsible usage, the source code for this project is **not 
 <!-- แถวที่ 3 -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7d69f2f7-0925-499c-81bb-42653fc01e85" width="48%" alt="S__24739849_0" />
-  <img src="https://github.com/user-attachments/assets/d16e4033-04fd-4e2f-8c82-6654ec76be03" width="48%" alt="S__24739850_0" />
+  <img src="https://github.com/user-attachments/assets/580b7d93-0b80-435c-ba4f-15d337159327" width="48%" alt="S__24739850_0" />
 </p>
