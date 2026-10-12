@@ -9,7 +9,7 @@ An experimental Wireless Security project built with Arduino Nano and NRF24L01 (
 
 ### ⚠️ Source Code Request
 To ensure safe and responsible usage, the source code for this project is **not publicly available** within this repository. If you want to obtain the source code for educational or testing purposes, please contact me directly via the link below:
-* 💬 **Get the Code**: [Click here to request the code / ทักมาขอโค้ดคลิกที่นี่](ป้อนลิงก์ช่องทางติดต่อของคุณตรงนี้)
+* 💬 **Get the Code**: [Click here to request the code](https://www.facebook.com/nirawit.luengprasert)
 
 <br>
 
@@ -24,5 +24,5 @@ To ensure safe and responsible usage, the source code for this project is **not 
 
 ### ⚠️ การขอรับซอร์สโค้ด (Source Code)
 เนื่องจากโปรเจกต์นี้มีความละเอียดอ่อนด้านความปลอดภัยทางไซเบอร์ จึง**ไม่มีการเปิดแจกซอร์สโค้ดในนี้โดยตรง** หากคุณต้องการนำโค้ดไปศึกษาหรือทดสอบฮาร์ดแวร์ชิ้นนี้ สามารถติดต่อทักมาขอรับซอร์สโค้ดกับผมได้โดยตรงที่นี่เลยครับ:
-* 💬 **ช่องทางติดต่อขอรับโค้ด**: [Click here to request the code / ทักมาขอโค้ดคลิกที่นี่](ป้อนลิงก์ช่องทางติดต่อของคุณตรงนี้)
+* 💬 **ช่องทางติดต่อขอรับโค้ด**: [Click here to request the code](https://www.facebook.com/nirawit.luengprasert)
 
