@@ -29,7 +29,8 @@ To ensure safe and responsible usage, the source code for this project is **not 
 <br>
 
 ## Project Preview 🖥️
-<img width="1477" height="1108" alt="S__24739847_0" src="https://github.com/user-attachments/assets/e4e2e76e-9fb7-4dcc-9e13-407d23fce3e2" />
+
+<img width="500" height="100" alt="S__24739847_0" src="https://github.com/user-attachments/assets/e4e2e76e-9fb7-4dcc-9e13-407d23fce3e2" />
 <img width="1477" height="1108" alt="S__24739846_0" src="https://github.com/user-attachments/assets/ffb65e2a-a9ef-4c05-9e5e-2a99174b99ef" />
 <img width="1477" height="1108" alt="S__24739845_0" src="https://github.com/user-attachments/assets/067cc739-a4e0-4685-949b-bba3efe5b080" />
 <img width="1108" height="1477" alt="S__24739850_0" src="https://github.com/user-attachments/assets/b4ed8a1a-9621-4375-9b8a-835a61ae57fd" />
