@@ -43,8 +43,11 @@ To ensure safe and responsible usage, the source code for this project is **not 
   <img src="https://github.com/user-attachments/assets/1d21cd88-65cc-4a20-9370-08fc1b204ff0" width="48%" alt="S__24739848_0" />
 </p>
 
+
 <!-- แถวที่ 3 -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7d69f2f7-0925-499c-81bb-42653fc01e85" width="48%" alt="S__24739849_0" />
   <img src="https://github.com/user-attachments/assets/580b7d93-0b80-435c-ba4f-15d337159327" width="48%" alt="S__24739850_0" />
 </p>
+
+https://github.com/user-attachments/assets/19fef543-568a-452d-b71a-0c13099c52a5
