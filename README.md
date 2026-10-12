@@ -35,15 +35,10 @@ To ensure safe and responsible usage, the source code for this project is **not 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9b585fcc-f6fb-4141-8db5-d8fb2f8bcefc" width="48%" alt="S__24739845_0" />
   <img src="https://github.com/user-attachments/assets/1f8429c9-8025-41c5-ba3a-b90773cf4f7a" width="48%" alt="S__24739846_0" />
-</p>
-<!-- แถวที่ 2 -->
-<p align="center">
+
   <img src="https://github.com/user-attachments/assets/1cb8ed01-ae5c-40f0-afda-e4bd4697158c" width="48%" alt="S__24739847_0" />
   <img src="https://github.com/user-attachments/assets/1d21cd88-65cc-4a20-9370-08fc1b204ff0" width="48%" alt="S__24739848_0" />
-</p>
 
-<!-- แถวที่ 3 -->
-<p align="center">
   <img src="https://github.com/user-attachments/assets/7d69f2f7-0925-499c-81bb-42653fc01e85" width="48%" alt="S__24739849_0" />
   <img src="https://github.com/user-attachments/assets/580b7d93-0b80-435c-ba4f-15d337159327" width="48%" alt="S__24739850_0" />
 </p>
