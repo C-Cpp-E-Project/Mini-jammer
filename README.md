@@ -32,18 +32,18 @@ To ensure safe and responsible usage, the source code for this project is **not 
 
 <!-- แถวที่ 1 -->
 <p align="center">
-  <img src="image_1b-K7Y.png" width="48%" />
-  <img src="https://prodia.xyz" width="48%" />
+  <img src="<img width="1477" height="1108" alt="S__24739845_0" src="https://github.com/user-attachments/assets/9b585fcc-f6fb-4141-8db5-d8fb2f8bcefc" />" width="48%" />
+  <img src="<img width="1477" height="1108" alt="S__24739846_0" src="https://github.com/user-attachments/assets/1f8429c9-8025-41c5-ba3a-b90773cf4f7a" />" width="48%" />
 </p>
 
 <!-- แถวที่ 2 -->
 <p align="center">
-  <img src="image_GAM3bZ.png" width="48%" />
-  <img src="image_kb7hJ9.png" width="48%" />
+  <img src="<img width="1477" height="1108" alt="S__24739847_0" src="https://github.com/user-attachments/assets/1cb8ed01-ae5c-40f0-afda-e4bd4697158c" />" width="48%" />
+  <img src="<img width="1477" height="1108" alt="S__24739848_0" src="https://github.com/user-attachments/assets/1d21cd88-65cc-4a20-9370-08fc1b204ff0" />" width="48%" />
 </p>
 
 <!-- แถวที่ 3 -->
 <p align="center">
-  <img src="image_FfoteR.png" width="48%" />
-  <img src="image_5_eAUP.png" width="48%" />
+  <img src="<img width="1477" height="1108" alt="S__24739849_0" src="https://github.com/user-attachments/assets/7d69f2f7-0925-499c-81bb-42653fc01e85" />" width="48%" />
+  <img src="<img width="1108" height="1477" alt="S__24739850_0" src="https://github.com/user-attachments/assets/d16e4033-04fd-4e2f-8c82-6654ec76be03" />" width="48%" />
 </p>
